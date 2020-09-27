@@ -1,0 +1,30 @@
+main {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 10px;
+}
+
+section {
+    background-color: #24272b;
+    border-radius: 20px;
+    text-align: center;
+}
+
+section h2{
+    color: #fff;
+}
+
+section a{
+    color: #fff;
+}
+
+section img{
+    max-width: 75%;
+    padding: 10px 0px;
+}
+
+section p{
+    color: #999;
+    padding: 10px;
+    text-align: justify;
+}
