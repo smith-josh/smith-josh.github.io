@@ -190,6 +190,17 @@ footer p{
     width: 60px;
     height: 50px;
 }
+.banner{
+    display: none;
+    background-color: lightgreen;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.show{
+    display: block;
+}
 
 main h3{
     font-family: 'Ubuntu', sans-serif;
